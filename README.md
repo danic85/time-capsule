@@ -1,6 +1,8 @@
 # time-capsule
 Digital Time Capsule (using Raspberry Pi &amp; Arduino).
 
+[Please note that this project is a work in progress]
+
 This project is designed to allow media files to be stored, backed-up and then only made available to view at a set interval (X years) from the date the media was first recorded.
 
 ## Features (incomplete)
